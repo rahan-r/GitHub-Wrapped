@@ -281,7 +281,7 @@ function Wrapped() {
             <CardContent>
               <Card className="w-[370px] h-5 bg-red-400">
                 <div className="text-2xl font-extrabold pl-6 -translate-y-4">
-                  Your time spend on github
+                  Your time spend on GitHub
                 </div>
               </Card>
             </CardContent>
