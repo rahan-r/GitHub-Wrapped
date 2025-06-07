@@ -362,7 +362,7 @@ function Wrapped() {
               <div className="flex items-center">
                 <div className="w-[490px] h-10 border-4 border-black mr-2 flex items-center overflow-hidden">
                   <div className="text-md pl-1.5 truncate">
-                    https://github-wrapped.com/wrap?user={wrap}
+                    https://github-wrapped-nine.vercel.app/wrap?user={wrap}
                   </div>
                 </div>
                 <Button variant="noShadow" onClick={handleCopyLink}>
