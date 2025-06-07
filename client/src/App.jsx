@@ -3,7 +3,7 @@ import Main from './pages/Main'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Wrapped from './pages/Wrapped';
 import NotFound from './pages/NotFound';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react';
 
 
 function App() {
