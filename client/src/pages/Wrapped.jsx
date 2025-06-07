@@ -56,7 +56,7 @@ function Wrapped() {
 
     const startTime = Date.now();
 
-    const fetchWrapData = fetch(`http://localhost:3000/wrap/${wrap}`).then(
+    const fetchWrapData = fetch(`https://github-wrapped-tnfy.onrender.com/wrap/${wrap}`).then(
       (res) => res.json()
     );
     const fetchOtherData = fetch(`https://api.github.com/users/${wrap}`).then(
