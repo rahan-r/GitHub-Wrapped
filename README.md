@@ -56,5 +56,3 @@ npm run dev
 4. Click "Generate GitHub Wrapped" to see your personalized analysis
 5. Explore your coding journey insights and share them with others!
 
-
--
